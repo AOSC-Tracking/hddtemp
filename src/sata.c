@@ -43,6 +43,7 @@
 #include "hddtemp.h"
 #include "satacmds.h"
 #include "scsicmds.h"
+#include "atacmds.h"
 
 #define swapb(x) \
 ({ \
